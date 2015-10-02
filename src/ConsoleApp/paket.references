@@ -1,0 +1,7 @@
+Mono.Posix
+nodatime
+Logary
+Owin
+Microsoft.Owin.Hosting
+Microsoft.Owin.Host.HttpListener
+Nancy.Owin

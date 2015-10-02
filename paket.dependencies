@@ -1,9 +1,16 @@
 source https://nuget.org/api/v2
 
 nuget FSharp.Formatting
+nuget Logary
+nuget Microsoft.Owin.Host.HttpListener
+nuget Microsoft.Owin.Hosting
+nuget Mono.Posix
+nuget Nancy.Owin
+nuget nodatime
 nuget NUnit 
 nuget NUnit.Runners
 nuget FAKE
+nuget Owin
 nuget SourceLink.Fake
 
 github fsharp/FAKE modules/Octokit/Octokit.fsx
